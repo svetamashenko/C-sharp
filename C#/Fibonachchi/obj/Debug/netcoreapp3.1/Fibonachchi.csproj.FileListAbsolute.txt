@@ -1,0 +1,13 @@
+C:\Users\UltraUser\Программирование\Free Projects\C#\Fibonachchi\bin\Debug\netcoreapp3.1\Fibonachchi.exe
+C:\Users\UltraUser\Программирование\Free Projects\C#\Fibonachchi\bin\Debug\netcoreapp3.1\Fibonachchi.deps.json
+C:\Users\UltraUser\Программирование\Free Projects\C#\Fibonachchi\bin\Debug\netcoreapp3.1\Fibonachchi.runtimeconfig.json
+C:\Users\UltraUser\Программирование\Free Projects\C#\Fibonachchi\bin\Debug\netcoreapp3.1\Fibonachchi.runtimeconfig.dev.json
+C:\Users\UltraUser\Программирование\Free Projects\C#\Fibonachchi\bin\Debug\netcoreapp3.1\Fibonachchi.dll
+C:\Users\UltraUser\Программирование\Free Projects\C#\Fibonachchi\bin\Debug\netcoreapp3.1\Fibonachchi.pdb
+C:\Users\UltraUser\Программирование\Free Projects\C#\Fibonachchi\obj\Debug\netcoreapp3.1\Fibonachchi.csprojAssemblyReference.cache
+C:\Users\UltraUser\Программирование\Free Projects\C#\Fibonachchi\obj\Debug\netcoreapp3.1\Fibonachchi.AssemblyInfoInputs.cache
+C:\Users\UltraUser\Программирование\Free Projects\C#\Fibonachchi\obj\Debug\netcoreapp3.1\Fibonachchi.AssemblyInfo.cs
+C:\Users\UltraUser\Программирование\Free Projects\C#\Fibonachchi\obj\Debug\netcoreapp3.1\Fibonachchi.csproj.CoreCompileInputs.cache
+C:\Users\UltraUser\Программирование\Free Projects\C#\Fibonachchi\obj\Debug\netcoreapp3.1\Fibonachchi.dll
+C:\Users\UltraUser\Программирование\Free Projects\C#\Fibonachchi\obj\Debug\netcoreapp3.1\Fibonachchi.pdb
+C:\Users\UltraUser\Программирование\Free Projects\C#\Fibonachchi\obj\Debug\netcoreapp3.1\Fibonachchi.genruntimeconfig.cache

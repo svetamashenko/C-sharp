@@ -1,0 +1,13 @@
+C:\Users\UltraUser\Программирование\Free Projects\C#\HelloI\bin\Debug\netcoreapp3.1\HelloI.exe
+C:\Users\UltraUser\Программирование\Free Projects\C#\HelloI\bin\Debug\netcoreapp3.1\HelloI.deps.json
+C:\Users\UltraUser\Программирование\Free Projects\C#\HelloI\bin\Debug\netcoreapp3.1\HelloI.runtimeconfig.json
+C:\Users\UltraUser\Программирование\Free Projects\C#\HelloI\bin\Debug\netcoreapp3.1\HelloI.runtimeconfig.dev.json
+C:\Users\UltraUser\Программирование\Free Projects\C#\HelloI\bin\Debug\netcoreapp3.1\HelloI.dll
+C:\Users\UltraUser\Программирование\Free Projects\C#\HelloI\bin\Debug\netcoreapp3.1\HelloI.pdb
+C:\Users\UltraUser\Программирование\Free Projects\C#\HelloI\obj\Debug\netcoreapp3.1\HelloI.csprojAssemblyReference.cache
+C:\Users\UltraUser\Программирование\Free Projects\C#\HelloI\obj\Debug\netcoreapp3.1\HelloI.AssemblyInfoInputs.cache
+C:\Users\UltraUser\Программирование\Free Projects\C#\HelloI\obj\Debug\netcoreapp3.1\HelloI.AssemblyInfo.cs
+C:\Users\UltraUser\Программирование\Free Projects\C#\HelloI\obj\Debug\netcoreapp3.1\HelloI.csproj.CoreCompileInputs.cache
+C:\Users\UltraUser\Программирование\Free Projects\C#\HelloI\obj\Debug\netcoreapp3.1\HelloI.dll
+C:\Users\UltraUser\Программирование\Free Projects\C#\HelloI\obj\Debug\netcoreapp3.1\HelloI.pdb
+C:\Users\UltraUser\Программирование\Free Projects\C#\HelloI\obj\Debug\netcoreapp3.1\HelloI.genruntimeconfig.cache

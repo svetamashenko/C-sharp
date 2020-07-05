@@ -1,0 +1,13 @@
+C:\Users\UltraUser\Программирование\Free Projects\C#\Factorial\bin\Debug\netcoreapp3.1\Factorial.exe
+C:\Users\UltraUser\Программирование\Free Projects\C#\Factorial\bin\Debug\netcoreapp3.1\Factorial.deps.json
+C:\Users\UltraUser\Программирование\Free Projects\C#\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.json
+C:\Users\UltraUser\Программирование\Free Projects\C#\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.dev.json
+C:\Users\UltraUser\Программирование\Free Projects\C#\Factorial\bin\Debug\netcoreapp3.1\Factorial.dll
+C:\Users\UltraUser\Программирование\Free Projects\C#\Factorial\bin\Debug\netcoreapp3.1\Factorial.pdb
+C:\Users\UltraUser\Программирование\Free Projects\C#\Factorial\obj\Debug\netcoreapp3.1\Factorial.csprojAssemblyReference.cache
+C:\Users\UltraUser\Программирование\Free Projects\C#\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfoInputs.cache
+C:\Users\UltraUser\Программирование\Free Projects\C#\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfo.cs
+C:\Users\UltraUser\Программирование\Free Projects\C#\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\UltraUser\Программирование\Free Projects\C#\Factorial\obj\Debug\netcoreapp3.1\Factorial.dll
+C:\Users\UltraUser\Программирование\Free Projects\C#\Factorial\obj\Debug\netcoreapp3.1\Factorial.pdb
+C:\Users\UltraUser\Программирование\Free Projects\C#\Factorial\obj\Debug\netcoreapp3.1\Factorial.genruntimeconfig.cache
